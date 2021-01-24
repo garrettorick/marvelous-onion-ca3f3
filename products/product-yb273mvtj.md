@@ -9,6 +9,7 @@ featured: false
 layout: product
 default_thumbnail_image: images/Mickey Star Wars.png
 default_original_image: images/important-mars.png
+category: category/category-7p35yiwpb.md
 ---
 ## Lorem ipsum
 
