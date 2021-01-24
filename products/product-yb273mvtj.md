@@ -5,7 +5,7 @@ description: SVG cut file with star wars images in the shape of Mickey Ears
 price: '5'
 order: 0
 section: Store
-featured: false
+featured: true
 layout: product
 default_thumbnail_image: images/Mickey Star Wars.png
 default_original_image: images/important-mars.png
