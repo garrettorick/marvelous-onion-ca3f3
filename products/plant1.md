@@ -8,7 +8,7 @@ description: >-
   100% Cotton. The Design is made of HTV Vinyl. Shirts come in the following
   colors: White, Blue, Pink, Red, Purple. Shirts available in the following
   sizes
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/Mickey Star Wars.png
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
