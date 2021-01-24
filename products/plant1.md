@@ -9,7 +9,7 @@ description: >-
   colors: White, Blue, Pink, Red, Purple. Shirts available in the following
   sizes
 default_thumbnail_image: images/Mickey Star Wars.png
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/Mickey Star Wars.png
 featured: true
 order: 1
 category: category/bigplants.md
