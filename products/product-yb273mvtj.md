@@ -1,6 +1,6 @@
 ---
 id: 1601a296-4b7a-46cb-a633-5f77efc03123
-title: Disney Star Wars SVG File
+title: '                                                                       Disney Star Wars SVG File'
 description: SVG cut file with star wars images in the shape of Mickey Ears
 price: '5'
 order: 0
