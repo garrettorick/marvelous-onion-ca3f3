@@ -1,5 +1,5 @@
 ---
-id: lorem-ipsum
+id: 'https://marvelous-onion-ca3f3.netlify.app/store/'
 title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
