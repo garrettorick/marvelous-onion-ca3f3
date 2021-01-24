@@ -1,6 +1,6 @@
 ---
 id: 1601a296-4b7a-46cb-a633-5f77efc03123
-title: Disney Star Wars
+title: Disney Star Wars SVG File
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
