@@ -9,8 +9,8 @@ default_original_image: images/Mickey Star Wars.png
 featured: true
 order: 1
 category: category/bigplants.md
-Custom: Size
-type: Black|Brown|Gold
+custom: Size
+options: Black|Brown|Gold
 section: Store
 ---
 
