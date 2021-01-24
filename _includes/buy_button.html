@@ -11,6 +11,8 @@
         {% assign category_page = product_page.category | get_page_by_file_path %}
         data-item-categories="{{ category_page.title }}"
     {% endif %}
+    data-item-custom1-name=" {{ product_page.custom }}"
+    data-item-custom1-options=" {{ product_page.options }}"
     data-item-id="{{ product_page.id }}"
     data-item-file-guid="{{ product_page.guid }}">
     <span class="button__icon">
