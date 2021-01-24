@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 favicon: images/favicon.png
-logo_dark: images/logo.svg
+logo_dark: images/PDM.png
 logo_light: images/best-basil.png
 hamburger_background_image: /images/leaf-light-grey.svg
 bg_image_primary: /images/header.jpg
