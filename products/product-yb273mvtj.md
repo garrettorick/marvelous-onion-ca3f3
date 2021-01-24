@@ -1,6 +1,6 @@
 ---
 id: 1601a296-4b7a-46cb-a633-5f77efc03123
-title: lorem-ipsum
+title: Disney Star
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
