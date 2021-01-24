@@ -5,7 +5,7 @@ price: '49.40'
 title: Star Wars Mickey T-Shirt
 description: >-
   Mickey Mouse Ears made up of classic Star Wars images. This shirt is made of
-  100%
+  100% Cotton
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
