@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
+price: '25'
 title: Star Wars Mickey T-Shirt
 description: >-
   Mickey Mouse Ears made up of classic Star Wars images. This shirt is made of
