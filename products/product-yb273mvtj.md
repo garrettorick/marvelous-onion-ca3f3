@@ -10,7 +10,7 @@ layout: product
 default_thumbnail_image: images/Mickey Star Wars.png
 default_original_image: images/important-mars.png
 category: category/category-7p35yiwpb.md
-guid: 1601a296-4b7a-46cb-a633-5f77efc03123
+guid: '1601a296-4b7a-46cb-a633-5f77efc03123'
 ---
 ## Lorem ipsum
 
