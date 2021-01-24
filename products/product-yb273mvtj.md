@@ -7,6 +7,7 @@ order: 0
 section: Store
 featured: false
 layout: product
+default_thumbnail_image: images/Mickey Star Wars.png
 ---
 ## Lorem ipsum
 
