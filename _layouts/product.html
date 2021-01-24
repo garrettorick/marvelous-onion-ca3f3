@@ -38,7 +38,15 @@ layout: body
                 <article class="product__description">
                     {{ page.description }}
                 </article>
-
+                
+                <article class="product__custom">
+                    {{ page.custom }}
+                </article>
+                
+                <article class="product__options">
+                    {{ page.options }}
+                </article>
+                
                 {% include buy_button.html product_page=page %}
             </div>
         </section>
