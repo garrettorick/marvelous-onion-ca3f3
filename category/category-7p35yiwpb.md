@@ -1,6 +1,6 @@
 ---
 title: Downloads
-order: 4
+order: 5
 section: Store
 layout: category
 ---
