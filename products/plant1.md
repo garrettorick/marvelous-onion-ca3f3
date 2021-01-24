@@ -7,7 +7,7 @@ description: >-
   Mickey Mouse Ears made up of classic Star Wars images. This shirt is made of
   100% Cotton. The Design is made of HTV Vinyl.
 default_thumbnail_image: images/Shirt_Placeholder.jpg
-default_original_image: images/Mickey Star Wars.png
+default_original_image: images/Shirt_Placeholder.jpg
 featured: true
 order: 1
 category: category/bigplants.md
