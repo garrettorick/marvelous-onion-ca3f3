@@ -1,6 +1,6 @@
 ---
 id: '11'
-title: '                                                                       Disney Star Wars SVG File'
+title: 'Disney Star Wars SVG File'
 description: SVG cut file with star wars images in the shape of Mickey Ears
 price: '5'
 order: 0
