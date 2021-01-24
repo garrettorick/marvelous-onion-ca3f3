@@ -6,7 +6,7 @@ title: Star Wars Mickey T-Shirt
 description: >-
   Mickey Mouse Ears made up of classic Star Wars images. This shirt is made of
   100% Cotton. The Design is made of HTV Vinyl. Shirts come in the following
-  colors: White, Blue, Pink, Red, Purple
+  colors: White, Blue, Pink, Red, Purple.
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
