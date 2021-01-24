@@ -3,7 +3,7 @@ layout: product
 id: '1'
 price: '15'
 title: Star Wars Mickey T-Shirt
-description: "Mickey Mouse Ears made up of classic Star Wars images. This shirt is made of 100% Cotton. The Design is made of HTV Vinyl.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Shirts come in the following colors: White, Blue, Pink, Red, Purple.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Shirts available in the following sizes: S, M, L, XL, 2X"
+description: "Mickey Mouse Ears made up of classic Star Wars images. This shirt is made of 100% Cotton. The Design is made of HTV Vinyl.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Shirts come in the following colors: White, Blue, Pink, Red, Purple.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_  Shirts available in the following sizes: S, M, L, XL, 2X"
 default_thumbnail_image: images/Mickey Star Wars.png
 default_original_image: images/Mickey Star Wars.png
 featured: true
