@@ -12,6 +12,8 @@ default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
 category: category/bigplants.md
+data-item-custom1-name: Size
+data-item-custom1-options: Black|Brown|Gold
 section: Store
 ---
 
