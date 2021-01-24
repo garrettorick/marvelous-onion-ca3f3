@@ -39,6 +39,8 @@ layout: body
                     {{ page.description }}
                 </article>
                 
+                </div>
+
                 <article class="product__custom">
                     {{ page.custom }}
                 </article>
@@ -46,7 +48,9 @@ layout: body
                 <article class="product__options">
                     {{ page.options }}
                 </article>
-                
+            
+                </div>
+
                 {% include buy_button.html product_page=page %}
             </div>
         </section>
