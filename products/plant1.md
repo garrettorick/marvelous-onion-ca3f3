@@ -11,7 +11,7 @@ order: 1
 category: category/bigplants.md
 custom: Size
 options: Small|Medium|Large|X-Large|2X-Large
-custom2:T-Shirt Color
+custom2: Shirt Color
 options2: Pink|Blue|Purple|Red|White
 section: Store
 ---
