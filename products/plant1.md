@@ -10,7 +10,7 @@ featured: true
 order: 1
 category: category/bigplants.md
 custom: Size
-options: Black|Brown|Gold
+options: Small|Medium|Large|X-Large|2X-Large
 section: Store
 ---
 
